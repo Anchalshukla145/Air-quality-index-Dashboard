@@ -46,7 +46,7 @@ This repository contains an interactive **Air Quality Index (AQI) Dashboard** de
 ## 📸 Preview
 
 ### Dashboard 
-![Dashboard Screenshot](dashboard-overview.png)
+![Dashboard Screenshot](images/dashboard-overview.png)
 
 ---
 
